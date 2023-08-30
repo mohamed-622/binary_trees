@@ -38,7 +38,7 @@ This project is divided into multiple tasks, each targeting different aspects of
 - [Task 6](https://github.com/mohamed-622/binary_trees/blob/main/6-binary_tree_preorder.c): Pre-order traversal of a binary tree.
 - [Task 7](https://github.com/mohamed-622/binary_trees/blob/main/7-binary_tree_inorder.c): In-order traversal of a binary tree.
 - [Task 8](https://github.com/mohamed-622/binary_trees/blob/main/8-binary_tree_postorder.c): Post-order traversal of a binary tree.
-- [Task 9](): Measuring the height of a binary tree.
+- [Task 9](https://github.com/mohamed-622/binary_trees/blob/main/9-binary_tree_height.c): Measuring the height of a binary tree.
 - [Task 10](): Measuring the depth of a node in a binary tree.
 - [Task 11](): Measuring the size of a binary tree.
 - [Task 12](): Counting the leaves in a binary tree.
