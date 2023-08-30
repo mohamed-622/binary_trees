@@ -29,21 +29,21 @@ By completing this project, you will be able to:
 
 This project is divided into multiple tasks, each targeting different aspects of binary trees:
 
-- Task 0: Creating a binary tree node.
-- Task 1: Inserting a node as the left-child of another node.
-- Task 2: Inserting a node as the right-child of another node.
-- Task 3: Deleting an entire binary tree.
-- Task 4: Checking if a node is a leaf.
-- Task 5: Checking if a node is a root.
-- Task 6: Pre-order traversal of a binary tree.
-- Task 7: In-order traversal of a binary tree.
-- Task 8: Post-order traversal of a binary tree.
-- Task 9: Measuring the height of a binary tree.
-- Task 10: Measuring the depth of a node in a binary tree.
-- Task 11: Measuring the size of a binary tree.
-- Task 12: Counting the leaves in a binary tree.
-- Task 13: Counting the nodes with at least 1 child in a binary tree.
-- Task 14: Measuring the balance factor of a binary tree.
+- [Task 0](https://github.com/mohamed-622/binary_trees/blob/main/0-binary_tree_node.c): Creating a binary tree node.
+- [Task 1](https://github.com/mohamed-622/binary_trees/blob/main/1-binary_tree_insert_left.c): Inserting a node as the left-child of another node.
+- [Task 2](https://github.com/mohamed-622/binary_trees/blob/main/2-binary_tree_insert_right.c): Inserting a node as the right-child of another node.
+- [Task 3](https://github.com/mohamed-622/binary_trees/blob/main/3-binary_tree_delete.c): Deleting an entire binary tree.
+- [Task 4](https://github.com/mohamed-622/binary_trees/blob/main/4-binary_tree_is_leaf.c): Checking if a node is a leaf.
+- [Task 5](https://github.com/mohamed-622/binary_trees/blob/main/5-binary_tree_is_root.c): Checking if a node is a root.
+- [Task 6](https://github.com/mohamed-622/binary_trees/blob/main/6-binary_tree_preorder.c): Pre-order traversal of a binary tree.
+- [Task 7](https://github.com/mohamed-622/binary_trees/blob/main/7-binary_tree_inorder.c): In-order traversal of a binary tree.
+- [Task 8](https://github.com/mohamed-622/binary_trees/blob/main/8-binary_tree_postorder.c): Post-order traversal of a binary tree.
+- [Task 9](): Measuring the height of a binary tree.
+- [Task 10](): Measuring the depth of a node in a binary tree.
+- [Task 11](): Measuring the size of a binary tree.
+- [Task 12](): Counting the leaves in a binary tree.
+- [Task 13](): Counting the nodes with at least 1 child in a binary tree.
+- [Task 14](): Measuring the balance factor of a binary tree.
 
 ## Getting Started
 
