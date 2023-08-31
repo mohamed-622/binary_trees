@@ -25,6 +25,10 @@ By completing this project, you will be able to:
 - The prototypes of all functions should be included in the header file `binary_trees.h`.
 - All header files should be include guarded.
 
+## Compilation
+
+- All the files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89.
+
 ## Project Structure
 
 This project is divided into multiple tasks, each targeting different aspects of binary trees:
@@ -40,10 +44,14 @@ This project is divided into multiple tasks, each targeting different aspects of
 - [Task 8](https://github.com/mohamed-622/binary_trees/blob/main/8-binary_tree_postorder.c): Post-order traversal of a binary tree.
 - [Task 9](https://github.com/mohamed-622/binary_trees/blob/main/9-binary_tree_height.c): Measuring the height of a binary tree.
 - [Task 10](https://github.com/mohamed-622/binary_trees/blob/main/10-binary_tree_depth.c): Measuring the depth of a node in a binary tree.
-- [Task 11](): Measuring the size of a binary tree.
-- [Task 12](): Counting the leaves in a binary tree.
-- [Task 13](): Counting the nodes with at least 1 child in a binary tree.
-- [Task 14](): Measuring the balance factor of a binary tree.
+- [Task 11](https://github.com/mohamed-622/binary_trees/blob/main/11-binary_tree_size.c): Measuring the size of a binary tree.
+- [Task 12](https://github.com/mohamed-622/binary_trees/blob/main/12-binary_tree_leaves.c): Counting the leaves in a binary tree.
+- [Task 13](https://github.com/mohamed-622/binary_trees/blob/main/13-binary_tree_nodes.c): Counting the nodes with at least 1 child in a binary tree.
+- [Task 14](https://github.com/mohamed-622/binary_trees/blob/main/14-binary_tree_balance.c): Measuring the balance factor of a binary tree.
+- [Task 15](https://github.com/mohamed-622/binary_trees/blob/main/15-binary_tree_is_full.c): Checks if a binary tree is full.
+- [Task 16](https://github.com/mohamed-622/binary_trees/blob/main/16-binary_tree_is_perfect.c): Checks if a binary tree is perfect.
+- [Task 17](https://github.com/mohamed-622/binary_trees/blob/main/17-binary_tree_sibling.c): Finds the uncle of a node.
+- [Task 18](https://github.com/mohamed-622/binary_trees/blob/main/18-binary_tree_uncle.c): Finds the uncle of a node.
 
 ## Getting Started
 
@@ -60,4 +68,3 @@ This project is divided into multiple tasks, each targeting different aspects of
 
 ## Copyright
 This project is protected by the ALX license. All rights reserved.
-
