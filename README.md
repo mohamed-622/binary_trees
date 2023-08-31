@@ -16,7 +16,6 @@ By completing this project, you will be able to:
 ## Requirements
 
 - Allowed editors: vi, vim, emacs
-- All files will be compiled on Ubuntu 20.04 LTS using gcc, with the options -Wall -Werror -Wextra -pedantic -std=gnu89.
 - All files should end with a new line.
 - Use the Betty style for code formatting. You can check your code using betty-style.pl and betty-doc.pl.
 - No global variables are allowed.
@@ -27,7 +26,7 @@ By completing this project, you will be able to:
 
 ## Compilation
 
-- All the files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89.
+- All files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89.
 
 ## Project Structure
 
@@ -57,7 +56,7 @@ This project is divided into multiple tasks, each targeting different aspects of
 
 1. Clone this repository.
 2. Navigate to the task-specific directory you want to check.
-3. Compile the source files using the provided compilation command.
+3. Compile the source files using the provided [compilation](#Compilation) command.
 4. Run the compiled executable to test the implementation.
 5. Check the correctness of your solution and its output.
 
