@@ -55,7 +55,8 @@ size_t binary_tree_size(const binary_tree_t *tree)
 }
 
 /**
- * binary_tree_is_perfect - Check if a binary tree is perfect (balanced & full).
+ * binary_tree_is_perfect - Check if a binary tree is perfect
+ * (balanced & full).
  * @tree: The binary tree.
  * Return: 1 If perfect) || 0 If not.
  */
